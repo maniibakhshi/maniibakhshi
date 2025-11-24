@@ -44,7 +44,8 @@ Python developer building production-ready automation tools, scalable bots, and 
 ---
 
 ## 🔗 Connect
-- Instagram: [Your Instagram Link]
+- Instagram: @manii.dev
+- Telegram: @maniidev
 
 ---
 
